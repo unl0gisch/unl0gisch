@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... (ComfyUI and Geometrynodes for Blender)
 - 💞️ I’m looking to collaborate on ... 3D Stuff!
 - 📫 How to reach me ... @insta: gestaltungs.hessel
-- 😄 Pronouns: ... he/them, cuz I'll never be him...
-- ⚡ Fun fact: ... I was shot with a waterballoon slingshot within 10m and couldn't sleep on my back for 2 weeks
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I created this account for an application!
 
 <!---
 unl0gisch/unl0gisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
